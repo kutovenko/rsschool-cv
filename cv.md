@@ -1,7 +1,6 @@
 1. Aliaksei Kutavenka
 2. e-mail: kutovenko@gmail.com, Skype: alexeykutovenko
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
+3. A forward-thinking developer offering experience of building and supporting mobile (Android, Flutter) applications.
 learning new things from everywhere etc.).
 4. Kotlin, Dart, Java, Android SDK, MVVM/Clean Architecture patterns, Android Jetpack, Flutter, Stateful/Stateless Widgets Architecture, BLoC and Provider patterns, OOP, SQL, JSON, HTML, Git, GitHub, Android Studio, IntelliJ IDEA.
 5. https://github.com/kutovenko/
