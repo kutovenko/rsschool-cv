@@ -15,7 +15,7 @@ learning new things from everywhere etc.).
 		Smart watch app for soccer arbiters. Java. Architecture, business logic.
 		Personal projects: 
 		KitStasher (Google Play: https://play.google.com/store/apps/details?id=com.kutovenko.kitstasher ). Application uses Parse back-end, Facebook API, ZHing barcode scanning library, SQLite database.
-		Scalemodels Reader (Google Play: https://play.google.com/store/apps/details?id=com.blogspot.alexeykutovenko.scalemodelsreader ). Application uses MVVM/Clean Architecture patterns, Room and Retrofit libraries, works with custom REST back-end and JSON data. GitHub: https://github.com/kutovenko/ScalemodelsReader
+		Scalemodels Reader (Google Play: https://play.google.com/store/apps/details?id=com.blogspot.alexeykutovenko.scalemodelsreader ). Application uses MVVM/Clean Architecture patterns, Room and Retrofit libraries, works with custom REST back-end and JSON data. GitHub: https://github.com/kutovenko/ScalemodelsReader.
 
 7. 	FLUTTER & DART - THE COMPLETE FLUTTER APP DEVELOPMENT COURSE, 2020, UDEMY 
 	Certificate: https://www.udemy.com/certificate/UC-GU8T7F55/
